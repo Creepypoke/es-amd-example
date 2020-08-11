@@ -1,0 +1,13 @@
+{
+  "name": "es-amd-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "lodash": "^4.17.19",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {}
+}
